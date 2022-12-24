@@ -43,13 +43,3 @@ Demo and testing Parkinson Smart Mug Berbasis Arduino [Klik disini](#)
 
 - [Rifqi Muhammad // 2020071014](#)
 - [Ryan Arya Prakoso // 2020071040](#)
-
-
-# Parkinson Smart Mug Berbasis Arduino
-
-Tujuan dari proyek ini diharapkan memberi dampak positif serta dapat membantu
-mereka untuk menggenggam gelas serta minum secara mandiri dengan menggunakan alat
-bantu. Hal ini diharapkan akan lebih mengurangi resiko air yang terdapat di gelas tumpah
-karena gerakan gemetar yang tidak terkendali. Selain itu desain parkinson smart mug ini
-akan bermanfaat dan mudah diterima para pengidap penyakit tremor, terlebih untuk
-kalangan lansia.
