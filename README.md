@@ -8,25 +8,6 @@ karena gerakan gemetar yang tidak terkendali. Selain itu desain parkinson smart 
 akan bermanfaat dan mudah diterima para pengidap penyakit tremor, terlebih untuk
 kalangan lansia.
 
-## Features
-
-- Switch On/Off
-- Push Button for drink 80&deg; and 100&deg;
-- Smart mug
-- Economical use of energy
-
-
-## Demo Product
-
-Demo and testing Parkinson Smart Mug Berbasis Arduino [Klik disini](#)
-
-
-## Authors
-
-- [Rifqi Muhammad // 2020071014](#)
-- [Ryan Arya Prakoso // 2020071040](#)
-
-
 ## Compile, and Upload
 
 To run Compile and Upload, example:
@@ -40,9 +21,28 @@ run the following command
 ```
   arduino-cli upload /home/user/Arduino/Parkinson-Smart-Mug
 ```
+## Demo Product
+
+Demo and testing Parkinson Smart Mug Berbasis Arduino [Klik disini](#)
+
+
+## Features
+
+- Switch On/Off
+- Push Button for drink 80&deg; and 100&deg;
+- Smart mug
+- Economical use of energy
+
+
 ## Description of the Technology to be Developed
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Authors
+
+- [Rifqi Muhammad // 2020071014](#)
+- [Ryan Arya Prakoso // 2020071040](#)
 
 
 # Parkinson Smart Mug Berbasis Arduino
