@@ -37,9 +37,3 @@ Demo and testing Parkinson Smart Mug Berbasis Arduino [Klik disini](https://yout
 ## Description of the Technology to be Developed
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Authors
-
-- [Rifqi Muhammad](#)
-- [Ryan Arya Prakoso](#)
